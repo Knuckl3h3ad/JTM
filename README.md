@@ -1,10 +1,10 @@
-<img src="https://komarev.com/ghpvc/?username=Knuckl3h3ad&color=red"/>
+<img src="https://komarev.com/ghpvc/?username=Knuckl3h3ad&color=blue"/>
 
 # Hi, I'm JT! 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Knuckl3h3ad&theme=shadow_red&hide_border=false&layout=compact) <br/><br/>
-![](https://github-readme-stats.vercel.app/api?username=Knuckl3h3ad&show_icons=true&theme=shadow_red) <br/> <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Knuckl3h3ad&theme=shadow_red&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Knuckl3h3ad&theme=shadow_blue&hide_border=false&layout=compact) <br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=Knuckl3h3ad&show_icons=true&theme=shadow_blue) <br/> <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Knuckl3h3ad&theme=shadow_blue&hide_border=false)
 
 ### Skills
 
