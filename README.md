@@ -2,6 +2,9 @@
 
 # Hi, I'm JT! Currently in University as a Senior at the age of a Sophomore. Enjoy some of my statistics below!
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Knuckl3h3ad&theme=shadow_red&hide_border=false&layout=compact) <br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=Knuckl3h3ad&show_icons=true&theme=shadow_red) <br/> <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Knuckl3h3ad&theme=shadow_red&hide_border=false)
 
 ### Skills
 
